@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Fate rarely calls upon us at a moment of our choosing" Optimus Prime
 Use the left arrow to go back!
